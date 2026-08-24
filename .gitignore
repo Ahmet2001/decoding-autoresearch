@@ -1,0 +1,12 @@
+.env
+.autoresearch/
+runs/
+results.tsv
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+dist/
+build/
+
