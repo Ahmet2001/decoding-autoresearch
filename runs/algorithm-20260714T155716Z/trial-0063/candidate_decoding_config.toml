@@ -1,0 +1,6 @@
+# The only file changed by autonomous research.
+[decoding]
+temperature = 1.2000000000000002
+top_p = 0.75
+top_k = 80
+min_p = 0.1

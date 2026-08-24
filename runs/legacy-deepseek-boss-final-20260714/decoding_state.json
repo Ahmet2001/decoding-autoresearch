@@ -1,0 +1,19 @@
+{
+  "schema_version": 4,
+  "research_variable": "decoding_config",
+  "calibrated_decoding_sha256": "5910cd2fecd261311750d0d613b7d19e41f0e2ccc1c6bf91f22a8e9b0d74109d",
+  "baseline_screen_path": "/home/rifat/Masaüstü/Autoresearchk/runs/baseline-20260714T140353Z/screen/report.json",
+  "baseline_validation_path": "/home/rifat/Masaüstü/Autoresearchk/runs/baseline-20260714T140353Z/validation/report.json",
+  "accepted_screen_path": "/home/rifat/Masaüstü/Autoresearchk/runs/baseline-20260714T140353Z/screen/report.json",
+  "accepted_validation_path": "/home/rifat/Masaüstü/Autoresearchk/runs/baseline-20260714T140353Z/validation/report.json",
+  "fixed_prompt_sha256": "a794045ceec6a46392727e6a74755b333bff07e8e852449fabb2c3a28a51bc4e",
+  "current_decoding_sha256": "5910cd2fecd261311750d0d613b7d19e41f0e2ccc1c6bf91f22a8e9b0d74109d",
+  "total_estimated_cost_usd": 1.2441459999999998,
+  "run_start_estimated_cost_usd": null,
+  "total_prompt_tokens": 533109,
+  "total_completion_tokens": 22241,
+  "boss_calls": 31,
+  "iteration": 31,
+  "accepted_count": 0,
+  "run_id": null
+}

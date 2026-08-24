@@ -1,0 +1,18 @@
+{
+  "run_id": "algorithm-20260714T155716Z",
+  "optimizer": "optuna-multivariate-tpe",
+  "stop_reason": "manual interrupt",
+  "new_trials": 28,
+  "total_study_trials": 74,
+  "accepted": 0,
+  "api_cost_usd": 0.0,
+  "best_feasible_screen_score": 0.39629649416147905,
+  "current_decoding_sha256": "5910cd2fecd261311750d0d613b7d19e41f0e2ccc1c6bf91f22a8e9b0d74109d",
+  "decoding_config": {
+    "temperature": 1.0,
+    "top_p": 0.95,
+    "top_k": 20,
+    "min_p": 0.0
+  },
+  "study_name": "qwen-decoding-0c2e9208ee074c58"
+}
