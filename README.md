@@ -1,5 +1,7 @@
 # Qwen Decoding Autoresearch
 
+[![Python](https://img.shields.io/badge/Python-%3E%3D3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![uv](https://img.shields.io/badge/uv-package%20manager-DE5FE9)](https://docs.astral.sh/uv/) [![Ollama](https://img.shields.io/badge/Ollama-local%20inference-000000?logo=ollama&logoColor=white)](https://ollama.com/) [![Model](https://img.shields.io/badge/model-Qwen3.5%3A2B-7C3AED)](https://github.com/QwenLM/Qwen3) [![GitHub stars](https://img.shields.io/github/stars/Ahmet2001/decoding-autoresearch)](https://github.com/Ahmet2001/decoding-autoresearch/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Ahmet2001/decoding-autoresearch)](https://github.com/Ahmet2001/decoding-autoresearch/forks)
+
 Autonomous, closed-loop experimentation on decoding parameters to reduce chain-of-thought
 repetition loops in **Qwen3.5:2b (q4_K_M)**, run locally through Ollama. Adapts
 [Andrej Karpathy's "autoresearch"](https://x.com/karpathy) idea — an agent that proposes an
